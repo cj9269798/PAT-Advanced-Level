@@ -1,3 +1,4 @@
+//经典错误原因：即使一个人不用服务（无效数据），也要把他的输入读取了，要不该数据被其他读取，就会造成错误
 #include<iostream>
 #include<stdio.h>
 #include<queue>
