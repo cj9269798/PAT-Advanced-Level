@@ -1,3 +1,4 @@
+//17点前到的，就算过了17点，也要服务，而且数据会服务到很晚。。所以min得设成INF,一开始设成24点最后个点过不了
 #include<iostream>
 #include<stdio.h>
 #include<algorithm>
